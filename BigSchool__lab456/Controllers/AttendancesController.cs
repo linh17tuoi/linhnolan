@@ -9,7 +9,6 @@ using System.Web.Http;
 
 namespace BigSchool__lab456.Controllers
 {
-
     [Authorize]
     public class AttendancesController : ApiController
     {
