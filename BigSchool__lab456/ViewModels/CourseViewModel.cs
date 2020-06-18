@@ -9,6 +9,7 @@ namespace BigSchool__lab456.ViewModels
 {
     public class CourseViewModel
     {
+
         [Required]
         public string Place { get; set; }
         [Required]
